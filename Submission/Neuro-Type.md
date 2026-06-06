@@ -3,35 +3,39 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Jai Gangwar
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+jaigangwar
 
 **Team Name:**  
-<!-- Write your team name -->
+Terminal Trauma
 
 **College/University:**  
-<!-- Write your college/university name -->
+RBMI
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+Neuro-Type: 4D Immersive Skill Accelerator
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+Neuro-Type is a futuristic, attention-controlled typing and learning game built for hackathons. It leverages Computer Vision (AI) to track your focus in real-time. The game acts as a "Skill Accelerator" where your learning efficiency (clarity and score) is directly tied to your mental focus.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+AI/ML: MediaPipe Face Landmarker for real-time gaze tracking.
+Graphics: Three.js (3D Background) + Phaser 3 (2D Game Overlay).
+Audio & Speech: Web Audio API (Procedural ASMR) & Web Speech API (Voice TTS).
+Visuals: Vanilla CSS 3D Transforms (Glassmorphism & Parallax).
+Analytics: Chart.js for post-session focus and WPM correlation reports.
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/jaigangwar/OpenSource
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+https://open-source-five.vercel.app/
 
 **Presentation / Demo Video Link:**  
 <!-- Optional but recommended -->
